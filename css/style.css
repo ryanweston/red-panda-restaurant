@@ -458,7 +458,7 @@ footer .container {
 
 .google-maps {
   position: relative;
-  padding-bottom: 75%; // This is the aspect ratio
+  padding-bottom: 75%; 
   height: 0;
   overflow: hidden;
 }
@@ -582,11 +582,6 @@ height: 100% !important;
     border-radius: 0px;
     border:2px solid #333;
   }
-
-
-.picture {
-
-}
 
 .picture img {
   width:100%;
@@ -745,4 +740,8 @@ height: 100% !important;
 .about a:hover {
   border-bottom: 4px solid #333;
   color: #333;
+}
+
+.menu img {
+  width:100%;
 }
